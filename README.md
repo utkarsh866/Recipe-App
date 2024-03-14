@@ -3,6 +3,7 @@
 ## Overview
 
 The Recipe App is a web application that allows users to explore and discover various recipes. The app fetches recipe data from an external API, providing a diverse range of culinary options for users to explore.
+To view the website visit this link ="https://recipeapp123.netlify.app/"
 
 ## Features
 
